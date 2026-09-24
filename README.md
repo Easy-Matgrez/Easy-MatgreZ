@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MatgreZ 👋</h1>
+<h1 align="center">Hi, I'm Easy-Matgrez 👋</h1>
 
 <p align="center">
   <b>High School Student in Telecommunications & Computer Science</b><br>
@@ -35,7 +35,10 @@ I am currently strengthening my foundation in computer systems and network secur
 *A real-time security log analyzer designed to detect common web attack vectors (SQLi, XSS, Path Traversal) via an interactive CLI.*
 
 * **Key Concepts Learned:** Regular expressions for pattern matching, threat detection logic, CLI interface design, and incident response fundamentals.
-* **Tech Stack:** `Python` `CLI` `Cybersecurity`
+* **Tech Stack:** 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Cybersecurity-Red%2FBlue-red?style=flat-square" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/CLI-Interactive-blue?style=flat-square" alt="CLI">
 
 ---
 
@@ -43,7 +46,9 @@ I am currently strengthening my foundation in computer systems and network secur
 *A procedural map generator driving terrain creation through user-defined parameters such as humidity, temperature, and scale.*
 
 * **Key Concepts Learned:** Procedural generation algorithms, noise map processing, data visualization, and modular code architecture.
-* **Tech Stack:** `Python` `Procedural Generation` `Algorithms`
+* **Tech Stack:** 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Procedural_Generation-000000?style=flat-square" alt="Procedural Generation">
 
 ---
 
@@ -51,34 +56,35 @@ I am currently strengthening my foundation in computer systems and network secur
 
 ### Programming Languages
 
-| Technology | Proficiency Level | Learning Milestones & Applications |
-| :--- | :--- | :--- |
-| **Python** | Intermediate | Automation scripts, log parsing, procedural generation, data analysis |
-| **C++** | Intermediate | Data structures, algorithm optimization, Object-Oriented Programming (OOP) |
-| **Rust** | Intermediate | Memory safety models, ownership & borrowing, modern systems programming concepts |
-| **Bash** | Fundamental | Shell scripting, system administration automation, task scheduling |
-| **Java** | Fundamental | Object-Oriented principles, core syntax, software development basics |
+| Badge | Language | Level | Learning Milestones & Applications |
+| :---: | :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> | **Python** | Intermediate | LogWarden analyzer, procedural maps, automation scripts |
+| <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"> | **Rust** | Intermediate | Memory safety models, ownership & borrowing, modern systems concepts |
+| <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> | **C++** | Intermediate | Data structures, OOP, algorithm optimization |
+| <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"> | **Bash** | Fundamental | Shell scripting, system administration automation, task scheduling |
+| <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> | **Java** | Fundamental | Object-Oriented principles, core syntax, software development basics |
 
-### Environment, Tools & Infrastructure
+### Environments & Tools
 
-| Category | Tool | Application & Use Case |
-| :--- | :--- | :--- |
-| **Operating System** | Arch Linux | Main environment for development, system administration, and workflow customization |
-| **Security & CTFs** | Security Frameworks | Penetration testing tools, network packet analysis, and CTF challenges |
-| **Containerization** | Docker | Creating isolated testing environments and reproducible deployment setups |
-| **Version Control** | Git / GitHub | Code tracking, documentation, and project architecture management |
+| Badge | Tool / System | Primary Usage |
+| :---: | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux"> | **Arch Linux** | Main OS for development, system administration, and workflow customization |
+| <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"> | **Windows** | Secondary OS setup on dedicated disk |
+| <img src="https://img.shields.io/badge/-CTF_Tools-000000?style=flat-square&logo=kalilinux&logoColor=white" alt="CTF Tools"> | **Security Tools** | Penetration testing frameworks, network packet analysis, and CTF challenges |
+| <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> | **Docker** | Creating isolated testing environments and reproducible deployments |
+| <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> | **Git** | Code tracking, documentation, and version control |
 
 ---
 
-## 🎯 Academic & Technical Roadmap
+## 🎯 Future Roadmap
 
-- [ ] **Advanced Network Security:** Deepening analysis of protocol behavior (TCP/IP, DNS, HTTP/S) and traffic inspection.
+- [ ] **Advanced Network Protocols:** Deepening analysis of protocol behavior (TCP/IP, DNS, HTTP/S) and traffic inspection.
 - [ ] **Machine Learning Integration:** Exploring high-level neural network implementations for anomaly detection.
-- [ ] **Rust Ecosystem:** Expanding proficiency in writing memory-safe utility tools and CLI applications.
+- [ ] **Rust Ecosystem:** Writing memory-safe utility tools and CLI applications.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatgreZ&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatgreZ&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Easy-Matgrez&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Matgrez&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
