@@ -33,7 +33,7 @@ Procedural map generator designed for tabletop role-playing games or aesthetic e
 
 ---
 
-### log_warden
+### LogWarden
 🚧 **Work in progress**
 
 Real-time log analyzer written in Python, designed to detect web attack attempts (SQLi, XSS, Path Traversal) via an interactive CLI interface.
