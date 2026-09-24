@@ -1,4 +1,4 @@
-<h1 align="center">MatgreZ/h1>
+<h1 align="center">MatgreZ</h1>
 <h3 align="center">High School Student · Telecommunications & Computer Science</h3>
 
 <p align="center">
