@@ -59,8 +59,3 @@ Procedural map generator producing terrain from user-defined parameters (humidit
 - Rust for memory-safe CLI utilities
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Easy-Matgrez&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Matgrez&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
