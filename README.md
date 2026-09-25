@@ -52,10 +52,3 @@ Procedural map generator producing terrain from user-defined parameters (humidit
 
 ---
 
-## Currently Exploring
-
-- Network protocol internals (TCP/IP, DNS, HTTP/S) and traffic inspection
-- Machine learning for anomaly detection
-- Rust for memory-safe CLI utilities
-
----
